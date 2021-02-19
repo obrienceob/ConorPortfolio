@@ -1,11 +1,10 @@
 [Installation]
-To get this webpage running, visit the website at https://obrienceob.github.io/Responsive_about_me/
+To get this webpage running, visit the website at https://obrienceob.github.io/ConorPortfolio/
 
-If it is not on a github repository yet, uplaod the index.html, portfolio.html, and contact.html and assets folder to github using the git add, commit, and push. 
+If it is not on a github repository yet, you'll need a text editor. I reccomend VS Code. Download the zip file or code, or use GitHub's instructions to create a new repo. Uplaod the index.html, Develop folder with the script.js and style.css files to github using the git add, commit, and push commands.
 
 Then ensure the file uploaded, open up the setting in your repo, and scroll down to the pages section. Change the source to "main" or "master" and save. 
 
-You can now reach the webpage via "yourgithubname.github.io/nameofyourrepository"
 
 [Usage]
 Click each of the links in the header to drop down to a section below:
@@ -13,6 +12,11 @@ Click each of the links in the header to drop down to a section below:
     About
     Portfolio
     Contact
+<img src="Assets/images/Screenshot.jpg" alt="screenshot of landing page">
+
+[Code]
+
+This portfolio contains an HTML page and CSS styling using bootstrap's library. There are links to some of my completed projects in the portfolio page, a summary of my on the index or landing page, along with my contact information and a downloadable resume PDF. You can also click the LinkedIN or GitHub icons to check out those sites. 
 
 [Credits]
 
