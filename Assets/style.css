@@ -104,6 +104,11 @@ h1 {
   }
   
   }
+  #images {
+    height: auto;
+    width: 400px;
+    border: 1px solid gray;
+  }
   
   /* A Media Query max-width: 786px */
   @media screen and (max-width: 786px) {
@@ -126,6 +131,11 @@ h1 {
           margin-left: 5%;
           margin-right: 5%;
       }
+      }
+      #images {
+        height: auto;
+        width: 300px;
+        border: 1px solid gray;
       }
       
   /* A Media Query max-width: 640px */
@@ -159,11 +169,13 @@ h1 {
   /* Selects element within a class */ 
   /* Moves label and photo */ 
       .work h3 {
-          padding: 10px; 
+          padding: 20px; 
       }
   /* Resizes footer */
-      footer {
-          min-width: 640px;
-      }
+  #images {
+    height: auto;
+    width: 100px;
+    border: 1px solid gray;
+  }
   }
 
